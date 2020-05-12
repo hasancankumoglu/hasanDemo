@@ -1,0 +1,16 @@
+{
+  "version": "0.0.28",
+  "name": "hasandemo",
+  "private": true,
+  "scripts": {
+  },
+  "author": {
+    "name": "hasancankumoglu"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+ 
+  }
+}
